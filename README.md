@@ -1,6 +1,6 @@
 # Personal Revision About API and  Database connections
 
-###Progress made today
+### Progress made today
 The application above is made with Flask RESTful and can enable user registration.
 
 for the time being, The Application can only register a user and store the infomation in a mariadb with mysql and just for the record, 
@@ -12,5 +12,5 @@ The application i have designed was to mainly help me get the concept of end poi
 presume i have acquired some knowledge about, despite the fact that i have not yet completed all the 4 required end points, 
 i am of the hope that in a short time i will have them all working.
 
-#ATTACHED
+# ATTACHED
 Attached are the pictures of Stored informatin in the data base.
